@@ -1,6 +1,6 @@
 ![Apresentação](capa.png?raw=true)
 
-                                                              Linguagens
+                                                             Linguagens
 <p align="center">
 <a><img height="30" width="110" src= "https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white"></a>  
 <a><img height="30" width="110" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
