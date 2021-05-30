@@ -34,14 +34,14 @@
   
 </p>
         
-                                                             Meus Contatos
+### Meus Contatos
 
 
   
-  <p align="center">
-<a><img height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davirsantos/"></a>
-<a><img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisamssantos@gmail.com"></a>
-  </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davirsantos/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisamssantos@gmail.com")
+
 
 
 
