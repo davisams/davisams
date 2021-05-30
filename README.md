@@ -1,4 +1,4 @@
-![Estatística do Davi Santos](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Estatística do Davi Santos](https://github-readme-stats.vercel.app/api?username=davisams&show_icons=true&theme=radical)
 
 
 <!--
