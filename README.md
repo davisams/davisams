@@ -1,6 +1,8 @@
 ![Apresentação](capa.png?raw=true)
 
+<p align="center">
                                                              Linguagens
+</p>
 <p align="center">
 <a><img height="30" width="110" src= "https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white"></a>  
 <a><img height="30" width="110" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -13,15 +15,24 @@
 <p>
   <h2></h2>
   
-  </p>
-
+</p>
+ 
+<p align="center">
                                                           Status do GitHub
+</p>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=davisams&theme=midnight-purple&show_icons=true"></a>
 
 
+<p align="center">
                                                         Linguagens utilizadas
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisams&theme=vision-friendly-dark"></a>
    
+   <p>
+  <h2></h2>
+  
+</p>
         
                                                            Meus Contatos
 
