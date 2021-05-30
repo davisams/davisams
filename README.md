@@ -1,5 +1,4 @@
-![Estatística do Davi Santos](https://github-readme-stats.vercel.app/api?username=davisams&show_icons=true&theme=radical)
-
+![Estatística do Davi Santos](https://github-readme-stats.vercel.app/api?username=davisams&theme=vision-friendly-dark_icons=true)
 
 <!--
 **davisams/davisams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
